@@ -1,6 +1,5 @@
 # End-to-End-Covid-19-Data-Analysis
 
-# COVID-19 Data Analysis Dashboard
 Welcome to the COVID-19 Data Analysis project repository! This project utilizes Python for data processing and Power BI for visualization to analyze the COVID-19 pandemic trends. The project aims to provide insights into confirmed cases, deaths, and recoveries across different regions.
 
 ## Introduction
@@ -45,8 +44,8 @@ Delivered a COVID-19 data analysis dashboard that provides valuable insights for
 ##### 4. Data Sorting and Filtering: Allows for better analysis and understanding through sorted and filtered data views.
 ####
 Kindly click on this link to check out the dashboard:
-COVID-19 Dashboard
+https://github.com/ABHISHEKSWAROOPGUPTA/End-to-End-Covid-19-Data-Analysis/blob/562a95b82f70c8ef1c834daf9b362ad4fe09dc2a/Covid%20-19%20Dashboard.pbix
 
-Also, you can see the Dashboard by this link:
+Also, you can see the Dashboard image :
 ![image](https://github.com/user-attachments/assets/a5332cdb-a52d-4103-aa89-dfd4cc166bd8)
 
